@@ -1,13 +1,12 @@
 
 import Header from "./Header"
-import HomeFooter from "./HomeFooter"
-import HomePageSection3 from "./HomePageSection3"
-import HomePageSection4 from "./HomePageSection4"
 import Homepage from "./Homepage"
 import HomePageSection2 from "./HomepageSection2"
-import TradingPlan from "./TradingPlan"
 import TradingViewChart from "./TradingViewChart"
-
+import HomePageSection3 from "./HomePageSection3"
+import TradingPlan from "./TradingPlan"
+import HomePageSection4 from "./HomePageSection4"
+import HomeFooter from "./HomeFooter"
 
 function Home() {
     
